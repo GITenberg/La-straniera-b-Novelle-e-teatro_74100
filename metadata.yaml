@@ -1,0 +1,37 @@
+_repo: La-straniera-b-Novelle-e-teatro_74100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calandra, Edoardo
+    birthdate: 1852
+    deathdate: 1911
+    gutenberg_agent_id: '55898'
+    url: http://www.gutenberg.org/2009/agents/55898
+    wikipedia: https://it.wikipedia.org/wiki/Edoardo_Calandra
+description: ''
+gutenberg_issued: '2024-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74100'
+language: it
+pgterms:marc905: 20220722025616calandra
+pgterms:marc906: '1914'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images made available by Università degli Studi di
+  Torino - Sistema Bibliotecario d'Ateneo)
+publication_note: '  $aTorino :$bSocietà Tipografico-Editrice Nazionale, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcsh 'Italian drama -- 20th century'
+- !lcsh 'Italian fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: 'Edoardo Calandra -- Novelle: La straniera. L''orso. Due spaventi.
+  Il fucilato. Un vaccaro -- Teatro: Irreparabile. Leonessa. La primavera del ''99.
+  Madonna Oretta. La parola.'
+title: 'La straniera : $b Novelle e teatro'
+url: http://www.gutenberg.org/ebooks/74100
